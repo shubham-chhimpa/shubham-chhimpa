@@ -17,19 +17,19 @@
 
 <p align="center">
 
-<img src="images/flutter.svg" alt="flutter" width="20" height="20"/>
+<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/flutter.svg" alt="flutter" width="20" height="20"/>
 
-<img src="images/dart.svg" alt="dart" width="20" height="20"/>
+<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/dart.svg" alt="dart" width="20" height="20"/>
 
-<img src="images/django.svg" alt="django" width="20" height="20"/> 
+<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/django.svg" alt="django" width="20" height="20"/> 
 
-<img src="images/python.svg" alt="python" width="20" height="20"/>
+<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/python.svg" alt="python" width="20" height="20"/>
 
-<img src="images/bootstrap.svg" alt="bootstrap" width="20" height="20"/>
+<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/bootstrap.svg" alt="bootstrap" width="20" height="20"/>
 
-<img src="images/java.svg" alt="java" width="20" height="20"/> 
+<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/java.svg" alt="java" width="20" height="20"/> 
 
-<img src="images/javascript.svg" alt="javascript" width="20" height="20"/>
+<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/javascript.svg" alt="javascript" width="20" height="20"/>
 
 </p>
 
