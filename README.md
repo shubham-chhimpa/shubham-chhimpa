@@ -15,23 +15,32 @@
 
 - ⚡ Fun fact **Like to work on new Frameworks**
 
+<h3 align="center">Frameworks/Platforms</h3>
 <p align="center">
 
 <img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/flutter.svg" alt="flutter" width="50" height="50"/>
 
-<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/dart.svg" alt="dart" width="20" height="20"/>
+<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/django.svg" alt="django" width="50" height="50"/> 
 
-<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/django.svg" alt="django" width="20" height="20"/> 
+<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/bootstrap.svg" alt="bootstrap" width="50" height="50"/>
 
-<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/python.svg" alt="python" width="20" height="20"/>
+<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/firebase.svg" alt="firebase" width="50" height="50"/>
 
-<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/bootstrap.svg" alt="bootstrap" width="20" height="20"/>
-
-<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/java.svg" alt="java" width="20" height="20"/> 
-
-<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/javascript.svg" alt="javascript" width="20" height="20"/>
 
 </p>
+<h3 align="center">Languages</h3>
+<p align="center">
+
+<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/dart.svg" alt="dart" width="50" height="50"/>
+
+<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/python.svg" alt="python" width="50" height="50"/>
+
+<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/javascript.svg" alt="javascript" width="50" height="50"/>
+
+<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/java.svg" alt="java" width="50" height="50"/> 
+
+</p>
+
 
 <p align="center"> 
 <img src="https://dry-gorge-12677.herokuapp.com/api/shubham-chhimpa" alt="shubham chhimpa" /> 
