@@ -17,7 +17,7 @@
 
 <p align="center">
 
-<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/flutter.svg" alt="flutter" width="20" height="20"/>
+<img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/flutter.svg" alt="flutter" width="50" height="50"/>
 
 <img src="https://github.com/shubham-chhimpa/shubham-chhimpa/blob/master/images/dart.svg" alt="dart" width="20" height="20"/>
 
