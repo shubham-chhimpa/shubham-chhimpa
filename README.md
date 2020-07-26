@@ -15,8 +15,27 @@
 
 - ⚡ Fun fact **Like to work on new Frameworks**
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p>
-<p align="center"> <img src="https://dry-gorge-12677.herokuapp.com/api/shubham-chhimpa" alt="shubham chhimpa" /> </p>
+<p align="center">
+
+<img src="images/flutter.svg" alt="flutter" width="20" height="20"/>
+
+<img src="images/dart.svg" alt="dart" width="20" height="20"/>
+
+<img src="images/django.svg" alt="django" width="20" height="20"/> 
+
+<img src="images/python.svg" alt="python" width="20" height="20"/>
+
+<img src="images/bootstrap.svg" alt="bootstrap" width="20" height="20"/>
+
+<img src="images/java.svg" alt="java" width="20" height="20"/> 
+
+<img src="images/javascript.svg" alt="javascript" width="20" height="20"/>
+
+</p>
+
+<p align="center"> 
+<img src="https://dry-gorge-12677.herokuapp.com/api/shubham-chhimpa" alt="shubham chhimpa" /> 
+</p>
 
 <p align="center">
 <a href="https://codepen.io/shubhamchhimpa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="shubham chhimpa" height="20" width="20" /></a>
