@@ -42,10 +42,6 @@
 </p>
 
 
-<p align="center"> 
-<img src="https://dry-gorge-12677.herokuapp.com/api/shubham-chhimpa" alt="shubham chhimpa" /> 
-</p>
-
 <p align="center">
 <a href="https://codepen.io/shubhamchhimpa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="shubham chhimpa" height="20" width="20" /></a>
 <a href="https://dev.to/shubhamchhimpa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shubham chhimpa" height="20" width="20" /></a>
