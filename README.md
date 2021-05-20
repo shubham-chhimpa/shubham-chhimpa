@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [http://shubham-chhimpa.github.io/](http://shubham-chhimpa.github.io/)
+- 👨‍💻 All of my projects are available at [http://shubham-chhimpa.github.io/](http://shubham-chhimpa.github.io/) (not updated)
 
 - 📝 I regulary write articles on [https://medium.com/@chhimpa.shubh04](https://medium.com/@chhimpa.shubh04)
 
