@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [http://shubham-chhimpa.github.io/](http://shubham-chhimpa.github.io/) (not updated)
 
-- 📝 I regulary write articles on [https://medium.com/@chhimpa.shubh04](https://medium.com/@chhimpa.shubh04)
+- 📝 I regulary write articles on [https://medium.com/@shubhamchhimpa](https://medium.com/@chhimpa.shubh04)
 
 - 💬 Ask me about **Flutter, Django**
 
